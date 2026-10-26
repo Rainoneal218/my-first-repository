@@ -7,3 +7,9 @@ My First GitHub Repository
 **Learning Goal:** I am learning hot Git and GitHub help people track changes and manage projects.
 
 **My First Commit:** This repository is my first activity learning version control.
+
+## What I learned
+
+-Git tracks changes to files.
+-GitHub hosts repositories online.
+-Commits record changes in the projects hisotry.
